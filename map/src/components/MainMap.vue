@@ -19,6 +19,7 @@
     },
     mounted() {
         //test code
+        //2nd test
       this.OlMap = new OlMap({
         target: this.$refs.map,
         layers: [
