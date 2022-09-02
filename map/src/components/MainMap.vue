@@ -20,6 +20,7 @@
     mounted() {
         //test code
         //2nd test
+        //roy branch에서 수정 후 commit
       this.OlMap = new OlMap({
         target: this.$refs.map,
         layers: [
