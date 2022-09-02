@@ -22,6 +22,9 @@
         //2nd test
         //roy branch에서 수정 후 commit
         //roy branch push test2
+        //branch sep
+        //plz
+        //8
       this.OlMap = new OlMap({
         target: this.$refs.map,
         layers: [
