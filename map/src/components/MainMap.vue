@@ -18,11 +18,11 @@
       }
     },
     mounted() {
-        
+        //1
 
 
 
-      
+
       this.OlMap = new OlMap({
         target: this.$refs.map,
         layers: [
