@@ -19,6 +19,7 @@
     },
     mounted() {
       //main
+      //branch add
       this.OlMap = new OlMap({
         target: this.$refs.map,
         layers: [
