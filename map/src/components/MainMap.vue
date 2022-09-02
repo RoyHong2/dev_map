@@ -18,11 +18,19 @@
       }
     },
     mounted() {
+<<<<<<< HEAD
         //1
 
 
 
 
+=======
+        //test code
+        //2nd test
+        //roy branch에서 수정 후 commit
+        //roy branch push test2
+        //branch sep
+>>>>>>> new_branch
       this.OlMap = new OlMap({
         target: this.$refs.map,
         layers: [
